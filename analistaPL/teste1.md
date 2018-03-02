@@ -1,6 +1,6 @@
 # Teste Estabilis: Analista de infraestrutura Pleno
 
-Desenvolver uma infraestrutura como código e orquestrar um ambiente com Docker Swarm.
+Criar uma infraestrutura como código e orquestrar um ambiente com Docker Swarm.
 
 ## Instruções:
 
