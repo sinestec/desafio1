@@ -5,7 +5,7 @@ Criar uma infraestrutura como código e orquestrar um ambiente com Docker Swarm.
 ## Informações:
 
 * Você receberá no seu e-mail o Access Key/Secret Key para poder acessar/criar sua infraestrutura na Amazon AWS.
-* Você deverá publicar o seu projeto no GitHub
+* Você deverá publicar o seu projeto no GitHub e informar por e-mail o link do projeto.
 
 ## Instruções:
 
