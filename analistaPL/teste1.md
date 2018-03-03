@@ -25,7 +25,7 @@ _Criar uma infraestrutura como código (IaC) e em seguida orquestrar um ambiente
 * **Criar uma serviço (service) no Cluster de Docker Swarm.**
 
     * Construir o [Dockerfile](https://docs.docker.com/engine/reference/builder/) do projeto utilizando uma imagem default do [Nginx](https://nginx.org/en/)
-    * Gerar uma imagem com o "seu nome" e publicá-la no [Hub Docker(https://hub.docker.com/)
+    * Gerar uma imagem com o "seu nome" e publicá-la no [Hub Docker](https://hub.docker.com/)
     * Gerar o [Docker Compose](https://docs.docker.com/compose/) da sua aplicação Web "seu nome" expondo a porta 80
     * Subir um serviço (service) "seu nome" no Cluster Docker Swarm
 
