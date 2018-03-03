@@ -19,6 +19,7 @@
 
     * Orquestrar o Cluster Docker Swarm utilizando o [Ansible](https://www.ansible.com/).
     * Estrutura do Cluster:
+    
         * _3 Manager na rede pública_
         * _3 Worker na rede privada_
 
