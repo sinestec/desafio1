@@ -1,6 +1,6 @@
 # Teste Estabilis: Analista de Infraestrutura Pleno
 
-_Criar uma infraestrutura como código (IaC) e em seguida orquestrar um ambiente com [Docker Swarm](https://docs.docker.com/engine/swarm/)._
+* _Criar uma infraestrutura como código (IaC) e em seguida orquestrar um ambiente com [Docker Swarm](https://docs.docker.com/engine/swarm/)._
 
 ## Informações:
 
@@ -35,3 +35,8 @@ _Criar uma infraestrutura como código (IaC) e em seguida orquestrar um ambiente
 * Lógica do código
 * Uso do Terraform, Ansible, Docker e Git
 * Documentação do projeto (README)
+
+## Classificação
+
+* Projeto entregue no prazo estipulado 
+* Porcentagem das etapas ( (1)Terraform - (2)Ansible - (3)Docker)
