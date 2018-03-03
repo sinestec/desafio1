@@ -38,5 +38,6 @@
 
 ## Classificação
 
-* Projeto entregue no prazo estipulado (25%)
 * Porcentagem das etapas (25%) Terraform - (25%) Ansible - (25%) Docker
+* Projeto entregue no prazo estipulado (25%)
+
