@@ -19,8 +19,8 @@ _Criar uma infraestrutura como código (IaC) e em seguida orquestrar um ambiente
 
     * Orquestrar o Cluster Docker Swarm utilizando o [Ansible](https://www.ansible.com/).
     * Estrutura do Cluster:
-        * **3 Manager na rede pública**.
-        * **3 Worker na rede privada**.
+        * _3 Manager na rede pública._
+        * _3 Worker na rede privada**_
 
 * **Criar uma serviço (service) no Cluster de [Docker Swarm](https://docs.docker.com/engine/swarm/).**
 
