@@ -1,4 +1,4 @@
-# Teste Estabilis: Analista de infraestrutura Pleno
+# Teste Estabilis: Analista de Infraestrutura Pleno
 
 _Criar uma infraestrutura como código (IaC) e em seguida orquestrar um ambiente com [Docker Swarm](https://docs.docker.com/engine/swarm/)._
 
